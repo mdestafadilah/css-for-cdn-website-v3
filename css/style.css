@@ -27,7 +27,7 @@ body
 /*=======================================================
       IMPORT FILE
 ========================================================*/
-@import url("animate.css");
+@import url("https://rawcdn.githack.com/mdestafadilah/css-for-cdn-website-v3/cf158376f0534cc42c264f9be6ac5958a7984499/css/animate.css");
 /*=======================================================
       THEME STYLING START
 ========================================================*/
@@ -3651,7 +3651,7 @@ img.mfp-img {
   left: 0;
   width: 100%;
   height: 100px;
-  background: url("../images/wave-new.png");
+  background: url("https://rawcdn.githack.com/mdestafadilah/css-for-cdn-website-v3/cf158376f0534cc42c264f9be6ac5958a7984499/images/wave-new.png");
   background-size: 1000px 100px;
 }
 
