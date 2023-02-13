@@ -632,8 +632,12 @@ header .logo {
   transition: 0.2s ease-in-out;
 }
 header .logo img {
-  z-index: 3;
-  position: relative;
+  /* z-index: 3; */
+  /* position: relative; */
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
 }
 .sticky-wrapper {
   height: auto !important;
